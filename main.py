@@ -20,7 +20,7 @@ import random
 
 USERNAME = config('USERNAME')
 BOTNAME = config('BOTNAME')
-openai.api_key="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"
+openai.api_key="YOUR-API-KEY-HERE"
 
 
 engine = pyttsx3.init('sapi5')
