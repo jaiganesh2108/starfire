@@ -21,7 +21,7 @@ import random
 USERNAME = config('USERNAME')
 BOTNAME = config('BOTNAME')
 openai.api_key="YOUR-API-KEY-HERE"
-
+BIO=int(input("Enter the number"))
 
 engine = pyttsx3.init('sapi5')
 
