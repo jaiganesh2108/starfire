@@ -35,3 +35,11 @@ Clone the repo:
 git clone https://github.com/jaiganesh2108/starfire.git
 cd starfire
 ```
+
+## 📬 Contact
+
+👨‍💻 Developer: Jai Ganesh H
+🌐 GitHub: @jaiganesh2108
+
+📧 Email: jaiganeshh574@gmail.com
+
