@@ -6,7 +6,6 @@ It is designed to be **developer-friendly**, providing a **unique modular codeba
 ---
 
 
-
 ## ✨ Features  
 
 Starfire comes packed with intelligent features to assist in everyday tasks:  
